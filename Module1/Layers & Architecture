@@ -1,0 +1,13 @@
+Software Architecture Layers
+
+1) Presentation Layer -> Represent Something
+2) Application Layer -> But in behind there is some logic[Business Logic]
+3) Data Layer -> it's connect with database
+
+
+
+
+dev ->development
+QA-> QUALITY aSSUrance
+UAT-> user acceptance testing
+Prod
